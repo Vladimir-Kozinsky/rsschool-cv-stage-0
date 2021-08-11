@@ -16,7 +16,7 @@ Education
 :   Minsk State Higher Aviation College (Minsk),  
     Technical operation of aircraft and engines
 
-Skils
+Skills
 -----
 HTML5, CSS3, JavaScript React Js, TypeScript, React-Router, Redux, API, AJAX, Git
 
@@ -32,11 +32,11 @@ Experience
 ----------
 My project link - https://github.com/Vladimir-Kozinsky/react-project.git
 
-1. FZC TECNOLINE (United Arab Emirates 
+1. FZC TECNOLINE (United Arab Emirates) 
    Continuing Airworthiness Engineer / Quality Supervisor
    02/2020 - present
              Qality audits plans create
-             Quality audшеы 
+             Quality audits 
              Arranging the documentation and participating in the EASA TCO audit of the 
              continuing airworthiness of the Boeing 747, Airbus A300. 
              Inspecting aircraft documentation. Getting AoC, CoR, NC. 
